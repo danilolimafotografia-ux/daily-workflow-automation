@@ -1,0 +1,16 @@
+{
+  "name": "daily-workflow-automation",
+  "version": "1.0.0",
+  "description": "Lightweight CLI utility to automate repetitive file organization and asset formatting.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "automation",
+    "cli",
+    "workflow",
+    "productivity"
+  ],
+  "license": "MIT"
+}
